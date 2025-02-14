@@ -10,9 +10,6 @@ This repository contains an Exploratory Data Analysis (EDA) notebook analyzing t
 * [Key Findings](#key-findings)
 * [Dependencies](#dependencies)
 * [How to Run the Notebook](#how-to-run-the-notebook)
-* [Further Analysis](#further-analysis)
-* [Contributing](#contributing)
-* [License](#license)
 
 ## Introduction
 
